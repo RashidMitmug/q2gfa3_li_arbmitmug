@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+nav{
+    background-color: #29372C;
+    color:white;
+    padding:2vh;
+}
+.buttoncontainer{
+    position: relative;
+    left: 15%;
+    display: inline-block;
+}
+.button{
+    text-decoration: none;
+    color:white;
+    padding-left:5vw;
+}
+.title{
+    display: inline-block;
+    float:right;
+    padding-right:5vw;
+}
+.banner{
+    height: 50vh;
+    background-image: url('contenti/bannervid.mp4');
+    background-color: red;
+}
+.titlecontainer{
+    position:relative;
+    left:10vw;
+    top:20vh;
+    width: fit-content;
+    color:#29372C;
+}
+.p1t1{
+    color: #29372C;
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+}
+.proj{
+    position: relative;
+    left:10vw;
+    top:10vh;
+    width: 30vw;
+    display: inline-block;
+}
+.projref{
+    text-decoration: none;
+    color: #29372C;
+    display: block;
+    padding:5px;
+    width:fit-content;
+}
+.forestimg{
+    width:30vw;
+    display: inline-block;
+    float: right;
+    position: relative;
+    right:10vw;
+    top:10vh;
+}
+footer{
+    position:relative;
+    top:40vh;
+    background-color: #29372C;
+    color:white;
+}
+
